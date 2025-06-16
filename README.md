@@ -1,1 +1,1 @@
-# Bioinformatics_with_python
+# Lesson 1: Validate DNA and Count Nucleotides
